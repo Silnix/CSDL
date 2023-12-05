@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "656e8812a25fa3851cedcd09"
+  },
+  "MaKH": "PT107",
+  "TenKH": "Tieng Phap Pho Thong khoa 1 nam 2007",
+  "BD": {
+    "$date": "2007-02-15T00:00:00.000Z"
+  },
+  "KT": {
+    "$date": "2007-05-15T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "656e8812a25fa3851cedcd0a"
+  },
+  "MaKH": "PT207",
+  "TenKH": "Tieng Phap Pho Thong khoa 2 nam 2007",
+  "BD": {
+    "$date": "2007-05-30T00:00:00.000Z"
+  },
+  "KT": {
+    "$date": "2007-08-30T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "656e8812a25fa3851cedcd0b"
+  },
+  "MaKH": "CT207",
+  "TenKH": "Tieng Phap Chuyen tu khoa 2 nam 2007",
+  "BD": {
+    "$date": "2007-05-30T00:00:00.000Z"
+  },
+  "KT": {
+    "$date": "2007-08-30T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "656e8812a25fa3851cedcd0c"
+  },
+  "MaKH": "CT108",
+  "TenKH": "Tieng Phap Chuyen tu khoa 1 nam 2008",
+  "BD": {
+    "$date": "2008-03-01T00:00:00.000Z"
+  },
+  "KT": {
+    "$date": "2008-05-30T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "656e8812a25fa3851cedcd0d"
+  },
+  "MaKH": "PT108",
+  "TenKH": "Tieng Phap Pho Thong khoa 1 nam 2008",
+  "BD": {
+    "$date": "2008-03-15T00:00:00.000Z"
+  },
+  "KT": {
+    "$date": "2008-05-01T00:00:00.000Z"
+  }
+}]
